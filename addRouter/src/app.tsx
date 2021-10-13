@@ -1,10 +1,10 @@
 /*
- * @Descripttion:  演示动态添加路由
+ * @Descripttion:  演示动态添加路由  官方示例 https://github.com/umijs/umi-examples/tree/master/runtime-routes-appjs
  * @version: 
  * @Author: Mozixin
  * @Date: 2021-10-13 15:01:26
  * @LastEditors: Mozixin
- * @LastEditTime: 2021-10-13 18:12:41
+ * @LastEditTime: 2021-10-13 18:26:34
  */
 
 
